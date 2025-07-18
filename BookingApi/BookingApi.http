@@ -1,0 +1,6 @@
+@BookingApi_HostAddress = http://localhost:7170
+
+GET {{BookingApi_HostAddress}}/api/available-homes
+Accept: application/json
+
+###
